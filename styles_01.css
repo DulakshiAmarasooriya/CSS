@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 35px;
+}
+
+.box1{
+    background-color: lightsalmon;
+    margin: 10px;
+}
+
+.box2{
+    background-color: lightcoral;
+    margin: 10px;
+    border: 0;
+}
